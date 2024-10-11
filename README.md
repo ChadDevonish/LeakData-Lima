@@ -28,7 +28,7 @@ drive.mount('/content/drive')
 ### Step 2: Define File Paths
 Set the path to your CSV file and output folder in Google Drive:
 
-##file_path = '/content/drive/My Drive/Protexxa/Life-Bear/Life-Bear-Data.csv'
+### file_path = '/content/drive/My Drive/Protexxa/Life-Bear/Life-Bear-Data.csv'
 output_folder = '/content/drive/My Drive/Protexxa/Life-Bear/output'
  
 ## Functions
