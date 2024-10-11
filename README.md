@@ -1,4 +1,4 @@
-# Life-Bear Data Processing Script
+# Life-Bear Data Processing Code
 ![AICleanFinal](AICleanFinal.png)
 
 ## Overview
