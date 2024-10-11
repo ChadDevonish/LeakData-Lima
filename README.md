@@ -4,7 +4,7 @@
 
 This repository contains a Python script designed to process a large CSV dataset related to Protexxa/Life-Bear. It includes functionality for splitting large files, handling missing and invalid data, removing empty lines, and structuring the data for further analysis. The script operates on CSV files stored in Google Drive and processes them in chunks to avoid memory overload.
 
-### Prerequisites
+## Prerequisites
 Before running the script, ensure that you have the following:
 
 Google Colab or a local Python environment with access to Google Drive.
@@ -28,7 +28,7 @@ drive.mount('/content/drive')
 ### Step 2: Define File Paths
 Set the path to your CSV file and output folder in Google Drive:
 
-file_path = '/content/drive/My Drive/Protexxa/Life-Bear/Life-Bear-Data.csv'
+##file_path = '/content/drive/My Drive/Protexxa/Life-Bear/Life-Bear-Data.csv'
 output_folder = '/content/drive/My Drive/Protexxa/Life-Bear/output'
  
 ## Functions
