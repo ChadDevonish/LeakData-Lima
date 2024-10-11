@@ -75,6 +75,7 @@ Usage example:
     remove_empty_lines(input_file_path, output_file_path)
 
 ## File Structure
+This is an example of how our file structure was setup so that everything was organized. 
 
     /content/drive/My Drive/Protexxa/Life-Bear/
         ├── Life-Bear-Data.csv              # Original data
