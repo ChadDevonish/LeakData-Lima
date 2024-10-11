@@ -4,7 +4,8 @@
 ## Overview
 This repository contains a Python script designed to process a large CSV dataset related to Protexxa/Life-Bear. It includes functionality for splitting large files, handling missing and invalid data, removing empty lines, and structuring the data for further analysis. The script operates on CSV files stored in Google Drive and processes them in chunks to avoid memory overload.
 
-This is my first attempt at in-depth data cleaning.  Much of this code was inspired by other more experienced coders and we made a few changes to suit the data we were given to clean.  We will constantly be making changes as we learn and develop and therefore, there will be a change log added below as changes are made! 
+This is our first attempt at in-depth data cleaning.  Much of this code was inspired by other more experienced coders and we made a few changes to suit the data we were given to clean.  We will constantly be making changes as we learn and develop and therefore, there will be a change log added below as changes are made! 
+**Chad & Victor Team Lima**
 
 ## Prerequisites
 Before running the script, ensure that you have the following:
